@@ -1,0 +1,40 @@
+.hero_section {
+  padding-bottom: 151px;
+}
+.hero_section_button {
+  padding: 17px 30px !important;
+  font-weight: 600 !important;
+}
+.hero_section_play_button {
+  padding: 17px 30px !important;
+  color: var(--font-btn-color) !important;
+  font-weight: 600 !important;
+  border: 2px solid var(--font-btn-color) !important;
+}
+.hero_heading {
+  padding-top: 152px;
+  font-family: var(--heading-font);
+  font-size: 80px;
+  line-height: 90px;
+  font-weight: 600;
+  color: var(--font-btn-color);
+}
+.hero_section_text {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: var(--regular-font);
+  line-height: 32px;
+  letter-spacing: -0.5;
+  color: var(--font-btn-color);
+  opacity: 80%;
+}
+.star_count {
+  padding-left: 10px;
+  opacity: 70%;
+  color: var(--font-btn-color);
+  font-family: var(--regular-font);
+  line-height: 24px;
+}
+.nav_hero_wrapper {
+  background: var(--hero-nav-section-bg-color);
+}

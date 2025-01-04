@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --heading-font: "Clash Display", sans-serif;
+  --regular-font: "inter", sans-serif;
+  --hero-nav-section-bg-color: #d5e2f1;
+  --font-btn-color: #12141d;
+}
+a {
+  text-decoration: none !important;
+}
+
+li {
+  list-style: none;
+}
+
+nav {
+  max-width: 1300px;
+  width: 100%;
+  padding-top: 30px;
+}
+
+.nav_list {
+  color: var(--font-btn-color) !important;
+  line-height: 24px;
+  font-family: var(--regular-font);
+  font-weight: 500;
+}
+.nav_signin_button {
+  line-height: 24px;
+  font-family: var(--regular-font);
+  font-weight: 500;
+  background: var(--font-btn-color) !important;
+  border: #12141d !important;
+}

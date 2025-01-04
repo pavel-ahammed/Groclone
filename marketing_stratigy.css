@@ -1,0 +1,34 @@
+.stratigy_section {
+  padding-top: 130px;
+}
+.marketing_stratigy_section_heading {
+  font-size: 48px;
+  line-height: 60px;
+  color: var(--font-btn-color);
+  font-weight: 600;
+}
+.marketing_section_text {
+  font-family: var(--regular-font);
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--font-btn-color);
+  opacity: 70%;
+}
+
+.stratigy_section_card_wrapper {
+  margin-top: 86px;
+}
+.card {
+  padding: 50px 50px 40px 50px;
+  border-radius: 20px !important;
+  border: 2px solid var(--font-btn-color) !important;
+}
+.card_text {
+  padding: 0px !important;
+}
+.discover {
+  color: var(--font-btn-color);
+  line-height: 24px;
+  font-family: var(--regular-font);
+  font-weight: 600;
+}

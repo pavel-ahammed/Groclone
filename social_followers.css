@@ -1,0 +1,19 @@
+.social_follower_section {
+  max-width: 1320px;
+  width: 100%;
+  margin: 167px auto 0 auto;
+}
+.social_follower_heading {
+  font-size: 48px;
+  font-weight: 600;
+  color: var(--font-btn-color);
+  line-height: 60px;
+}
+.social_follower_text_defination {
+  font-size: 18px;
+  color: var(--font-btn-color);
+  font-weight: 400;
+  font-family: var(--regular-font);
+  line-height: 28px;
+  opacity: 70%;
+}
