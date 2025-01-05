@@ -1,0 +1,96 @@
+footer {
+  max-width: 1296px;
+  width: 100%;
+}
+.footer_section {
+  max-width: 1296px;
+  width: 100%;
+  margin-top: 94px;
+}
+.company_text {
+  font-family: var(--regular-font);
+  line-height: 24px;
+  color: var(--font-btn-color);
+  opacity: 0.8;
+}
+.footer_section_button {
+  padding: 13px 25px !important;
+  font-size: 14px !important;
+  font-family: var(--regular-font) !important;
+  color: var(--font-btn-color) !important;
+  background: var(
+    --talk-to-marketing-expert-section-bg-and-button-color
+  ) !important;
+  border-radius: 10px !important;
+  line-height: 20px !important;
+  border: 1px solid var(--talk-to-marketing-expert-section-bg-and-button-color) !important;
+  position: absolute;
+  left: 204px;
+  bottom: 6px;
+  display: inline-block !important;
+}
+
+.section_one {
+  max-width: 330px;
+  width: 100%;
+}
+
+.text_box_wrapper {
+  position: relative;
+  margin-top: 40px;
+}
+.text_box {
+  height: 60px;
+  max-width: 330px;
+  width: 100%;
+  border: 1px solid rgba(18, 20, 29, 0.2);
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.section_two {
+  max-width: 147px;
+  width: 100%;
+}
+.section_two_heading {
+  line-height: 28px;
+  font-family: var(--regular-font);
+  color: var(--font-btn-color);
+}
+.services {
+  font-family: var(--regular-font);
+  color: var(--font-btn-color);
+}
+.phone_number {
+  line-height: 24px;
+  font-family: var(--regular-font);
+  color: var(--font-btn-color);
+}
+.email_address {
+  line-height: 24px;
+  font-family: var(--regular-font);
+  color: var(--font-btn-color);
+}
+.fa-phone,
+.fa-envelope {
+  color: var(--talk-to-marketing-expert-section-bg-and-button-color);
+}
+.place {
+  font-family: var(--regular-font);
+  color: var(--font-btn-color);
+  line-height: 24px;
+}
+.phone {
+  margin-top: 30px;
+}
+.email {
+  margin-top: 15px;
+}
+.line {
+  margin-top: 72px;
+}
+.footer_last_text {
+  font-size: 14px;
+  opacity: 0.7;
+  color: var(--font-btn-color);
+  line-height: 24px;
+}

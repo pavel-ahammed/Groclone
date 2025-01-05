@@ -3,20 +3,17 @@
 }
 .hero_section_button {
   padding: 17px 30px !important;
-  font-weight: 600 !important;
 }
 .hero_section_play_button {
   padding: 17px 30px !important;
   color: var(--font-btn-color) !important;
-  font-weight: 600 !important;
   border: 2px solid var(--font-btn-color) !important;
 }
 .hero_heading {
   padding-top: 152px;
-  font-family: var(--heading-font);
+  font-family: "myfont";
   font-size: 80px;
   line-height: 90px;
-  font-weight: 600;
   color: var(--font-btn-color);
 }
 .hero_section_text {

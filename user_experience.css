@@ -1,0 +1,38 @@
+.user_experience {
+  max-width: 1600px;
+  width: 100%;
+  background: var(--user-experience-bg);
+  padding: 97px 152px 138px 152px;
+  margin-top: 113px;
+}
+
+.user_experience_section_heading {
+  font-size: 48px;
+  line-height: 60px;
+  font-family: "myfont";
+  color: var(--font-btn-color);
+}
+.user_experience_section_card {
+  padding: 30px;
+  max-width: 416px;
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 85px;
+}
+.experience {
+  font-size: 18px;
+  font-family: var(--regular-font);
+  line-height: 30px;
+}
+.user_name {
+  line-height: 24px;
+  font-family: var(--regular-font);
+  color: var(--font-btn-color);
+}
+.user_profession {
+  font-size: 14px;
+  line-height: 24px;
+  color: var(--font-btn-color);
+  opacity: 0.7;
+  font-family: var(--regular-font);
+}

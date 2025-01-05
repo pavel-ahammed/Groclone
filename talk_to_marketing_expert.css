@@ -1,0 +1,24 @@
+.talk_to_marketing_expert {
+  max-width: 1296px;
+  width: 100%;
+  border-radius: 50px;
+  background: var(--talk-to-marketing-expert-section-bg-and-button-color);
+  padding: 80px 0px;
+  margin-top: 115px;
+}
+.talk_to_marketing_expert_section_heading {
+  font-size: 48px;
+  font-family: "myfont";
+  line-height: 60px;
+  color: var(--font-btn-color);
+}
+
+.talk_to_marketing_expert_section_button {
+  background: var(--font-btn-color) !important;
+  border: 1px solid var(--font-btn-color) !important;
+  font-size: 18px !important;
+  font-family: var(--regular-font) !important;
+  line-height: 26px !important;
+  padding: 17px 32px !important;
+  border-radius: 3px;
+}

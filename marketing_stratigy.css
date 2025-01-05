@@ -5,7 +5,7 @@
   font-size: 48px;
   line-height: 60px;
   color: var(--font-btn-color);
-  font-weight: 600;
+  font-family: "myfont";
 }
 .marketing_section_text {
   font-family: var(--regular-font);
@@ -30,5 +30,4 @@
   color: var(--font-btn-color);
   line-height: 24px;
   font-family: var(--regular-font);
-  font-weight: 600;
 }

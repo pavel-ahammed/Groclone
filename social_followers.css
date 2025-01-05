@@ -7,6 +7,7 @@
   font-size: 48px;
   font-weight: 600;
   color: var(--font-btn-color);
+  font-family: "myfont";
   line-height: 60px;
 }
 .social_follower_text_defination {

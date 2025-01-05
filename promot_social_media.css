@@ -1,0 +1,43 @@
+.promot_social_media {
+  margin-top: 142px;
+}
+.promote_section_main_heading {
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  color: var(--font-btn-color);
+  font-family: var(--heading-font);
+}
+
+.promote_heading_and_text {
+  max-width: 526px;
+  width: 100%;
+}
+.promote_section_main_heading {
+  font-size: 48px;
+  font-family: "myfont";
+  line-height: 60px;
+  color: var(--font-btn-color);
+  font-weight: 600;
+}
+.promote_section_text_heading {
+  font-size: 21px;
+  font-family: "myfont";
+  color: var(--font-btn-color);
+  margin-top: 60px;
+}
+.promote_section_text {
+  font-family: var(--regular-font);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  color: var(--font-btn-color);
+  margin-top: 20px;
+}
+.promote_section_text_second_heading {
+  font-size: 21px;
+  font-family: "myfont";
+  font-weight: 600;
+  color: var(--font-btn-color);
+  margin-top: 40px;
+}

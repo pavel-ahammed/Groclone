@@ -4,10 +4,15 @@
   box-sizing: border-box;
 }
 :root {
-  --heading-font: "Clash Display", sans-serif;
   --regular-font: "inter", sans-serif;
   --hero-nav-section-bg-color: #d5e2f1;
   --font-btn-color: #12141d;
+  --user-experience-bg: #f1dfd5;
+  --talk-to-marketing-expert-section-bg-and-button-color: #86e7b8;
+}
+@font-face {
+  font-family: "myfont";
+  src: url(ClashDisplay-Variable.ttf);
 }
 a {
   text-decoration: none !important;
