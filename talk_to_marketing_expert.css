@@ -22,3 +22,9 @@
   padding: 17px 32px !important;
   border-radius: 3px;
 }
+
+.talk_to_marketing_expert_section_button:hover {
+  border-color: var(--font-btn-color) !important;
+  background-color: #fff !important;
+  color: var(--font-btn-color) !important;
+}

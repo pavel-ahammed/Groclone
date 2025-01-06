@@ -29,7 +29,11 @@ footer {
   bottom: 6px;
   display: inline-block !important;
 }
-
+.footer_section_button:hover {
+  background-color: var(--font-btn-color) !important;
+  color: #fff !important;
+  border-color: var(--font-btn-color) !important;
+}
 .section_one {
   max-width: 330px;
   width: 100%;

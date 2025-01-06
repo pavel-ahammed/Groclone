@@ -3,10 +3,25 @@
 }
 .hero_section_button {
   padding: 17px 30px !important;
+  border: 2px solid var(--font-btn-color) !important;
+  font-weight: 600;
+}
+
+.hero_section_button:hover {
+  background: transparent !important;
+  font-weight: 600 !important;
+  color: var(--font-btn-color) !important;
+  border: 2px solid var(--font-btn-color) !important;
 }
 .hero_section_play_button {
   padding: 17px 30px !important;
   color: var(--font-btn-color) !important;
+  border: 2px solid var(--font-btn-color) !important;
+}
+
+.hero_section_play_button:hover {
+  background: var(--font-btn-color) !important;
+  color: #fff !important;
   border: 2px solid var(--font-btn-color) !important;
 }
 .hero_heading {

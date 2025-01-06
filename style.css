@@ -37,7 +37,17 @@ nav {
 .nav_signin_button {
   line-height: 24px;
   font-family: var(--regular-font);
-  font-weight: 500;
+  font-weight: 500 !important;
   background: var(--font-btn-color) !important;
-  border: #12141d !important;
+  border: 2px solid transparent !important;
+}
+
+.nav_signin_button:hover {
+  line-height: 24px;
+
+  font-weight: 500 !important;
+  border: 2px solid var(--font-btn-color) !important;
+  color: #000 !important;
+  background: transparent !important;
+  /* border: #12141d !important; */
 }

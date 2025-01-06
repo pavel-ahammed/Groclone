@@ -40,12 +40,31 @@
   background: #e5eef5;
   border-radius: 20px;
 }
+
+.work_plan_card_one:hover {
+  background: var(--font-btn-color);
+  .starter,
+  .amount,
+  .fa-dollar-sign,
+  .per_month,
+  .facilities_one {
+    color: #fff;
+  }
+}
 .starter {
   font-size: 20px;
   color: var(--font-btn-color);
   font-family: var(--regular-font);
   opacity: 0.8;
 }
+
+.starter:hover {
+  font-size: 20px;
+  color: #fff !important;
+  font-family: var(--regular-font);
+  opacity: 0.8;
+}
+
 .amount {
   font-size: 60px;
   font-weight: 600;
@@ -73,20 +92,17 @@ hr {
   color: var(--font-btn-color) !important;
   opacity: 0.1 !important;
 }
-.facilities_one,
-.facilities_two,
-.facilities_three {
+.facilities_one {
   font-size: 16px;
   font-family: var(--regular-font);
   color: var(--font-btn-color);
   line-height: 28px;
 }
-.facilities_two,
-.facilities_three {
-  margin-top: 12px;
-}
 .facilities_wrapper {
   margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 .fa-circle-check {
   color: var(--talk-to-marketing-expert-section-bg-and-button-color);
@@ -98,13 +114,17 @@ hr {
   font-size: 18px !important;
   line-height: 30px !important;
 }
-.work_plan_card_two_bg_color_change {
-  background: var(--font-btn-color);
+
+.work_plan_card_one_section_button:hover {
+  background: transparent !important;
+  border-color: #fff !important;
+  color: #fff !important;
 }
 
 .facilities_one_wrapper {
   display: flex;
   align-items: center;
+  margin: 0;
 }
 .work_plan_services_defination {
   margin-top: 109px;
